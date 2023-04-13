@@ -6,12 +6,12 @@
 
 In this project, we will take a deep dive into the main characteristics of the A/B Testing and it applications. We are going to hightlight the following steps :
 
-	* 1 - Defining the A/B Test. 
+	* 1 - The meaning of A/B Test and usecases.
 	* 2 - Make hypothesis (H0) and (H1).
-	* 3 - Defining a metric. 
-	* 4 - Computing a minimum sample size required to have statistically significant results.
-	* 5 - Choosing Two-Tailed or One-Tailed test depending on situations. 
-	* 6 - Rejecting or keeping the null hypothesis (H0). 
+	* 3 - Define a metric. 
+	* 4 - Compute a minimum sample size required to have statistically significant results.
+	* 5 - Choose Two-Tailed or One-Tailed test depending on situations. 
+	* 6 - Reject or keep the null hypothesis (H0). 
  
 
 
