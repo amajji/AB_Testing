@@ -2,7 +2,11 @@
 ***
 
 
-## Description
+# 🔥 A/B Testing 
+Data scientist | [Anass MAJJI](https://www.linkedin.com/in/anass-majji-729773157/)
+***
+
+## :monocle_face: Description
 
 In this project, we will take a deep dive into the main characteristics of the A/B Testing and it applications. We are going to hightlight the following steps :
 
@@ -16,7 +20,7 @@ In this project, we will take a deep dive into the main characteristics of the A
 
 
 
-## Repository Structure
+## :rocket: Repository Structure
 
 The repository contains the following files & directories:
 
